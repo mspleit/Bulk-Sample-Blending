@@ -7,7 +7,7 @@ Sample source
 Sample label
 Sample lithology
 Sample bin #
-# of sample simulatinos
+Number of sample simulations
 Sample weight (kg)
 
 then for each simulation:
